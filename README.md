@@ -27,6 +27,4 @@ https://github.com/user-attachments/assets/fc7b636a-eff0-4927-ab12-89cc3aaf8f07
    pip install pandas numpy selenium scikit-learn category_encoders matplotlib seaborn
    ```
 3. Run `aqarmap.ipynb` to generate the raw dataset or donwanload the data from data folder.
-4. Execute `preprocessing.ipynb` to clean, engineer, and export the final training and testing datasets (X_train_processed.csv, X_test_processed.csv
-
-, etc.).
+4. Execute `preprocessing.ipynb` to clean, engineer, and export the final training and testing datasets (X_train_processed.csv, X_test_processed.csv, etc.).
